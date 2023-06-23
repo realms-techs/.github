@@ -2,6 +2,8 @@
 
 # Realms AI (Developing apps for more than **10 years**)
 
+- [Personal Github](https://github.com/realms-ai)
+- 
 - [Website](https://realmsai.com)
 
 ## Full Stack **Javascript** & Ruby on Rails Developer
